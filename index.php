@@ -82,7 +82,7 @@
 							<img class="headerlogo" src="images/teamfastagents.jpg" alt="" />
 
 							<header>
-								<h3 class="alt">Thinking about selling <span class="blackblock"> 1989 Hilldale St?</span> Let us help! Team Fast Agents is YOUR personal team of professionals who makes Real Estate <span class="blueblock">EASY</span> for <span class="greenblock">YOU.</span></h3>
+								<h3 class="alt">Thinking about selling <span class="blackblock"> 1989 Hillsdale St?</span> Let us help! Team Fast Agents is YOUR personal team of professionals who makes Real Estate <span class="blueblock">EASY</span> for <span class="greenblock">YOU.</span></h3>
 							</header>
 							<iframe src="http://mapsengine.google.com/map/embed?mid=zERNb6ZQT6mM.kvWX6H8LeZas" width="80%" height="480"></iframe>
 							<h3>Proven Results.</h3>
